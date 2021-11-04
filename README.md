@@ -6,13 +6,14 @@ My Tech Stack: \
 ✔ HTML - CSS - Sass \
 ✔ JavaScript - TypeScript \
 ✔ ReactJS - Redux \
+✔ GraphQL - Apollo \
 ✔ NodeJS - Express \
 ✔ MySQL - MongoDB
 
 Other Skills: \
+-Git \
 -Testing \
 -UX Design \
--Git - GitHub \
 -CMS Wordpress \
 -Agile Methodologies
 
