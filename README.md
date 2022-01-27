@@ -33,5 +33,5 @@ Certificates \
 ### 📫 Get in touch
 
 Email: franarrigoni@gmail.com \
-Portfolio: [arrigoni.in/portfolio](https://arrigoni.in/portfolio/) \
-LinkedIn: [arrigoni.in/linkedin](https://arrigoni.in/linkedin/)
+Portfolio: [arrigoni.in/Portfolio](https://arrigoni.in/Portfolio/) \
+LinkedIn: [arrigoni.in/Linkedin](https://arrigoni.in/Linkedin/)
