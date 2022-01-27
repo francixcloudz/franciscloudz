@@ -5,7 +5,7 @@ I design & code beautifully simple things... and I love what I do!
 ## 👨🏼‍💻 Skills
 
 Scripting \
-• React - Next \
+• Next - React - Redux \
 • Typescript - JS \
 • Jest - Cypress
 
