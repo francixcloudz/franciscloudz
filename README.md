@@ -2,23 +2,36 @@
 
 I design & code beautifully simple things... and I love what I do!
 
-My Tech Stack: \
-✔ HTML - CSS - Sass \
-✔ JavaScript - TypeScript \
-✔ ReactJS - Redux \
-✔ GraphQL - Apollo \
-✔ NodeJS - Express \
-✔ MySQL - MongoDB
+## 👨🏼‍💻 Skills
 
-Other Skills: \
--Git \
--Testing \
--UX Design \
--CMS Wordpress \
--Agile Methodologies
+Scripting \
+• React - Next \
+• Typescript - JS \
+• Jest - Cypress
+
+Interfaces \
+• CSS - Sass - Less \
+• Styled Components \
+• GSAP - Three.js
+
+Backend \
+• GraphQL - Apollo \
+• Fauna - Mongo \
+• Node - Express
+
+Other \
+• UX Design \
+• WordPress CMS \
+• Agile Methodologies 
+
+Certificates \
+• Corporate Leadership \
+• Management Skills \
+• Digital Marketing \
+• Graphic Design
 
 ### 📫 Get in touch
 
 Email: franarrigoni@gmail.com \
-Portfolio: [franarrigoni.vercel.app](https://franarrigoni.vercel.app/) \
-LinkedIn: [linkedin.com/in/franarrigoni](https://linkedin.com/in/franarrigoni/)
+Portfolio: [arrigoni.in/portfolio](https://arrigoni.in/portfolio/) \
+LinkedIn: [arrigoni.in/linkedin](https://arrigoni.in/linkedin/)
