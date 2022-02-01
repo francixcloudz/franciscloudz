@@ -20,8 +20,8 @@ Backend \
 • Node - Express
 
 Other \
-• UX Design \
-• Unity - C# \
+• Unity (C#) \
+• UX/UI Design \
 • WordPress CMS \
 • Agile Methodologies 
 
