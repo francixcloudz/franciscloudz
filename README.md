@@ -21,6 +21,7 @@ Backend \
 
 Other \
 • UX Design \
+• Unity - C# \
 • WordPress CMS \
 • Agile Methodologies 
 
