@@ -5,14 +5,14 @@ I design & code beautifully simple things... and I love what I do!
 ## 👨🏼‍💻 Skills
 
 Scripting \
-• Next - React - Redux \
+• React - Next - Redux \
 • Typescript - JS \
 • Jest - Cypress
 
 Interfaces \
 • CSS - Sass - Less \
 • Styled Components \
-• GSAP - Three.js
+• SVG - Lottie - GSAP
 
 Backend \
 • GraphQL - Apollo \
