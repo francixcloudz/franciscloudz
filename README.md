@@ -12,14 +12,15 @@ Scripting \
 Interfaces \
 • CSS - Sass - Less \
 • Styled Components \
-• SVG - Lottie - GSAP
+• SVG - GSAP - Lottie
 
 Backend \
-• GraphQL - Apollo \
-• Fauna - Mongo \
-• Node - Express
+• Node - Express \
+• MySQL - MongoDB \
+• GraphQL - Apollo
 
 Other \
+• CI/CD \
 • Unity (C#) \
 • UX/UI Design \
 • WordPress CMS \
