@@ -5,8 +5,9 @@ I design & code beautifully simple things... and I love what I do!
 ## 👨🏼‍💻 Skills
 
 Scripting \
-• React - Next - Redux \
-• Typescript - JS \
+• React.js - Next - Redux \
+• Typescript - Javascript \
+• GraphQL - Apollo \
 • Jest - Cypress
 
 Interfaces \
@@ -15,9 +16,9 @@ Interfaces \
 • SVG - GSAP - Lottie
 
 Backend \
-• Node - Express \
+• Node.js - Express \
 • MySQL - MongoDB \
-• GraphQL - Apollo
+• AWS - Google Cloud
 
 Other \
 • CI/CD \
