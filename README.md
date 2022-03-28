@@ -21,6 +21,7 @@ Backend \
 
 Other \
 • CI/CD \
+• Web3.js \
 • Unity (C#) \
 • UX/UI Design \
 • WordPress CMS \
